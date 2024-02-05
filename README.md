@@ -4,4 +4,4 @@ The repository is a collection of valuable information, code snippets, and pract
 
 Contributions to this collection are warmly welcomed and highly appreciated! They foster collaboration and knowledge sharing within the Nova Container Platform users, making the repository even more valuable as a collective resource.
 
-Feel free to explore the examples, contribute yvour own insights, and benefit from the expertise shared in this repository.
+Feel free to explore the examples, contribute your own insights, and benefit from the expertise shared in this repository.
